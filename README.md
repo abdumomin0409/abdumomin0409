@@ -23,7 +23,7 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdumo-min-shamshiddinov-547058267/)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/e_nuriddinov_)
 [![image](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mavlonovich_java)
-[![image](https://www.instagram.com/?next=%2F)]
+	[![image](https://img.shields.io/badge/Instagram-1CA?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/?next=%2F)
 
 </div>
 

@@ -87,7 +87,7 @@
       <td><a href="https://github.com/elshod1018/user_crud_postgresql"><b>user_crud with postgresql</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/elshod1018/faker_bot"><b>faker_bot</b></a></td>
+      <td><a href="https://github.com/abdumomin0409/QR-generate-bot"><b>QR code generate bot</b></a></td>
     </tr>
   </tbody>
 </table>

@@ -84,7 +84,7 @@
       <td><a href="https://github.com/elshod1018/test_system_bot"><b>test-system-bot</b></a></td>
     </tr> 
 	  <tr>
-      <td><a href="https://github.com/abdumomin0409/book_crud_with_postgresql"><b>book_crud with postgresql</b></a></td>
+      <td><a href="https://github.com/abdumomin0409/book_crud_with_postgresql/tree/master"><b>book_crud with postgresql</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/abdumomin0409/QR-generate-bot"><b>QR code generate bot</b></a></td>

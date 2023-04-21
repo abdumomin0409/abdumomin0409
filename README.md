@@ -81,10 +81,10 @@
       <td><a href="https://github.com/elshod1018/jakartaee_online_library"><b>jakartaee_online_library</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/elshod1018/test_system_bot"><b>test-system-bot</b></a></td>
+      <td><a href="https://github.com/abdumomin0409/HasJobWithSpringBoot"><b>has_job_with_spring_boot</b></a></td>
     </tr> 
 	  <tr>
-      <td><a href="https://github.com/abdumomin0409/book_crud_with_postgresql/tree/master"><b>book_crud with postgresql</b></a></td>
+      <td><a href="https://github.com/abdumomin0409/book_crud_with_postgresql/"><b>book_crud with postgresql</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/abdumomin0409/QR-generate-bot"><b>QR code generate bot</b></a></td>

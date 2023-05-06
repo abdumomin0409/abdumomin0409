@@ -75,12 +75,6 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/elshod1018/quizlet-app"><b>Quizlet-app</b></a></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/elshod1018/jakartaee_online_library"><b>jakartaee_online_library</b></a></td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/abdumomin0409/HasJobWithSpringBoot"><b>has_job_with_spring_boot</b></a></td>
     </tr> 
 	  <tr>

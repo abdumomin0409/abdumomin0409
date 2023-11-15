@@ -20,7 +20,7 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdumo-min-shamshiddinov-547058267/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdumomin0409/)
 [![image](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mavlonovich_java)
 [![image](https://img.shields.io/badge/Instagram-1CA?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/abdumomin0409_pdp/?next=%2F)
 
